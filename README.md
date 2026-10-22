@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Dhaval Satasiya**
+# Hi, I'm **Dhaval Satasiya**
 
 <a href="https://git.io/typing-svg">
   <img
