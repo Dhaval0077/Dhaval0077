@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 About Me
+###  About Me
 
 I build **practical systems** that connect the digital and physical worlds.
 
@@ -43,7 +43,10 @@ class Developer {
   name = "Dhaval Satasiya";
   role = "Software Developer";
   focus = ["AI", "IoT", "Computer Vision", "Backend"];
+  languages = ["TypeScript", "Python", "C++", "SQL"];
+  hardware = ["ESP32", "Arduino", "MQTT"];
   building = ["JobPilot", "P-Accountant", "Duplicate Manager"];
+  learning = ["RAG", "Distributed Systems", "CI/CD"];
   philosophy = "Build software that can be understood, tested, maintained and trusted.";
   openToWork = true;
 }
@@ -57,9 +60,9 @@ export default Developer;
 
 <br>
 
-##  Tech Stack
-
 <div align="center">
+
+<h2 align="center"> Tech Stack</h2>
 
 <table>
 <tr>
@@ -88,17 +91,16 @@ export default Developer;
 </tr>
 </table>
 
-</div>
-
 <br>
 
-##  Featured Projects
+<h2 align="center"> Featured Projects</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-###  JobPilot
+<h3 align="center"> JobPilot</h3>
+
 **AI-powered automated job-hunting platform**
 
 Discovers, normalizes, deduplicates and scores job opportunities, then assists with CV tailoring and application content. Reports via Excel and Telegram, on a scheduled pipeline.
@@ -106,9 +108,10 @@ Discovers, normalizes, deduplicates and scores job opportunities, then assists w
 `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Playwright` `GitHub Actions`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-###  P-Accountant
+<h3 align="center"> P-Accountant</h3>
+
 **Privacy-first local accounting assistant**
 
 Processes payslips and working-hour documents with OCR and OpenCV, validates salaries against expectations, and explains results using local AI. Sensitive data never leaves your machine.
@@ -118,9 +121,10 @@ Processes payslips and working-hour documents with OCR and OpenCV, validates sal
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-###  Intelligent Duplicate File & Photo Manager
+<h3 align="center"> Intelligent Duplicate File & Photo Manager</h3>
+
 **Privacy-first duplicate detection**
 
 Finds exact and visually similar files through hashing, perceptual hashing and renamed-copy detection. Safe grouping with a full operation history. Fully local.
@@ -128,9 +132,10 @@ Finds exact and visually similar files through hashing, perceptual hashing and r
 `Computer Vision` `OpenCV` `Perceptual Hashing` `File Systems`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-###  HRMS
+<h3 align="center"> HRMS</h3>
+
 **Human Resource Management System**
 
 Employee records, attendance, leave management, reporting and role-based access, built around real business workflows.
@@ -143,9 +148,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-##  GitHub Analytics
-
-<div align="center">
+<h2 align="center"> GitHub Analytics</h2>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhaval0077&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaval0077&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
@@ -154,13 +157,9 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Dhaval0077&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
 
-</div>
-
 <br>
 
-##  Currently Building
-
-<div align="center">
+<h2 align="center"> Currently Building</h2>
 
 | Project | Focus |
 |:---:|:---:|
@@ -170,37 +169,25 @@ Employee records, attendance, leave management, reporting and role-based access,
 |  **AI / RAG** | Practical local AI and document intelligence |
 |  **IoT** | Hardware and software systems |
 
-</div>
-
 <br>
 
-##  What I'm Learning
-
-<div align="center">
+<h2 align="center"> What I'm Learning</h2>
 
 `Advanced AI Engineering` • `RAG` • `Computer Vision`
 `Scalable Backend Architecture` • `Cloud & DevOps`
 `IoT Systems` • `Secure Software Architecture`
 `Testing & CI/CD` • `Distributed Systems`
 
-</div>
-
 <br>
 
-##  Development Philosophy
-
-<div align="center">
+<h2 align="center"> Development Philosophy</h2>
 
 > **Don't just build software that works.**
 > **Build software that can be understood, tested, maintained and trusted.**
 
-</div>
-
 <br>
 
-##  Let's Connect
-
-<div align="center">
+<h2 align="center"> Let's Connect</h2>
 
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LINKEDIN-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -208,13 +195,9 @@ Employee records, attendance, leave management, reporting and role-based access,
 <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/KAGGLE-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-</div>
-
 <br>
 
-##  Contribution Snake
-
-<div align="center">
+<h2 align="center"> Contribution Snake</h2>
 
 <img width="95%" src="https://raw.githubusercontent.com/Dhaval0077/Dhaval0077/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
