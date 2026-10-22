@@ -24,31 +24,31 @@
 
 I build **practical systems** that connect the digital and physical worlds.
 
-- 🤖 Designing AI-powered applications
-- 👁️ Developing computer vision pipelines
-- 🔌 Building IoT and embedded solutions
-- 🧠 Creating local AI and RAG systems
-- ⚙️ Automating workflows to save time
-- 🔐 Keeping privacy and security first
+-  Designing AI-powered applications
+-  Developing computer vision pipelines
+-  Building IoT and embedded solutions
+-  Creating local AI and RAG systems
+-  Automating workflows to save time
+-  Keeping privacy and security first
 
 I take real-world problems, break them into engineering problems, and build complete solutions around them.
 
-📫 **Reach me at:** [your.email@example.com](mailto:YOUR_EMAIL@example.com)
+ **Reach me at:** [your.email@example.com](mailto:YOUR_EMAIL@example.com)
 
 </td>
 <td width="50%" valign="top">
 
 ```js
-const developer = {
-  name: "Dhaval Satasiya",
-  role: "Software Developer",
-  focus: ["AI", "IoT", "Computer Vision", "Backend"],
-  building: ["JobPilot", "P-Accountant", "Duplicate Manager"],
-  philosophy: "Build software that can be understood, tested, maintained and trusted.",
-  openToWork: true,
-};
+class Developer {
+  name = "Dhaval Satasiya";
+  role = "Software Developer";
+  focus = ["AI", "IoT", "Computer Vision", "Backend"];
+  building = ["JobPilot", "P-Accountant", "Duplicate Manager"];
+  philosophy = "Build software that can be understood, tested, maintained and trusted.";
+  openToWork = true;
+}
 
-export default developer;
+export default Developer;
 ```
 
 </td>
@@ -57,16 +57,16 @@ export default developer;
 
 <br>
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<th>🤖 AI / Computer Vision</th>
-<th>💻 Languages</th>
-<th>🔌 IoT & Embedded</th>
-<th>⚙️ Backend & DevOps</th>
+<th> AI / Computer Vision</th>
+<th> Languages</th>
+<th> IoT & Embedded</th>
+<th> Backend & DevOps</th>
 </tr>
 <tr>
 <td align="center">
@@ -92,13 +92,13 @@ export default developer;
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 JobPilot
+###  JobPilot
 **AI-powered automated job-hunting platform**
 
 Discovers, normalizes, deduplicates and scores job opportunities, then assists with CV tailoring and application content. Reports via Excel and Telegram, on a scheduled pipeline.
@@ -108,7 +108,7 @@ Discovers, normalizes, deduplicates and scores job opportunities, then assists w
 </td>
 <td width="50%" valign="top">
 
-### 🔐 P-Accountant
+###  P-Accountant
 **Privacy-first local accounting assistant**
 
 Processes payslips and working-hour documents with OCR and OpenCV, validates salaries against expectations, and explains results using local AI. Sensitive data never leaves your machine.
@@ -120,7 +120,7 @@ Processes payslips and working-hour documents with OCR and OpenCV, validates sal
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Intelligent Duplicate File & Photo Manager
+###  Intelligent Duplicate File & Photo Manager
 **Privacy-first duplicate detection**
 
 Finds exact and visually similar files through hashing, perceptual hashing and renamed-copy detection. Safe grouping with a full operation history. Fully local.
@@ -130,7 +130,7 @@ Finds exact and visually similar files through hashing, perceptual hashing and r
 </td>
 <td width="50%" valign="top">
 
-### 🏢 HRMS
+###  HRMS
 **Human Resource Management System**
 
 Employee records, attendance, leave management, reporting and role-based access, built around real business workflows.
@@ -143,7 +143,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -158,23 +158,23 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-## 🔭 Currently Building
+##  Currently Building
 
 <div align="center">
 
 | Project | Focus |
 |:---:|:---:|
-| 🤖 **JobPilot** | AI-powered job discovery and automation |
-| 🔐 **P-Accountant** | Privacy-first accounting and salary validation |
-| 🖼️ **Duplicate Manager** | Local file and visual duplicate detection |
-| 🧠 **AI / RAG** | Practical local AI and document intelligence |
-| 🔌 **IoT** | Hardware and software systems |
+|  **JobPilot** | AI-powered job discovery and automation |
+|  **P-Accountant** | Privacy-first accounting and salary validation |
+|  **Duplicate Manager** | Local file and visual duplicate detection |
+|  **AI / RAG** | Practical local AI and document intelligence |
+|  **IoT** | Hardware and software systems |
 
 </div>
 
 <br>
 
-## 📚 What I'm Learning
+##  What I'm Learning
 
 <div align="center">
 
@@ -187,7 +187,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-## 🎯 Development Philosophy
+##  Development Philosophy
 
 <div align="center">
 
@@ -198,7 +198,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -212,7 +212,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <br>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -220,6 +220,6 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
-**Build • Learn • Improve • Repeat** ⭐
+**Build • Learn • Improve • Repeat** 
 
 </div>
