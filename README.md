@@ -357,46 +357,6 @@ I enjoy taking a real-world problem, breaking it into smaller engineering proble
 
 ---
 
----
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-  <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h3>⭐ Thanks for visiting my profile!</h3>
-
-<h4>Build • Learn • Improve • Repeat</h4>
-
-</div>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
