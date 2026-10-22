@@ -185,15 +185,9 @@ Employee records, attendance, leave management, reporting and role-based access,
 > **Don't just build software that works.**
 > **Build software that can be understood, tested, maintained and trusted.**
 
-<br>
+<br> <h2 align="center"> Let's Connect</h2>
 
-<h2 align="center"> Let's Connect</h2>
-
-<a href="mailto:dhavalpatel.tool@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/dhaval-satasiya-898a75238/]"><img src="https://img.shields.io/badge/LINKEDIN-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[https://github.com/Dhaval0077](https://github.com/Dhaval0077)"><img src="https://img.shields.io/badge/GITHUB-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/KAGGLE-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:dhavalpatel.tool@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/dhaval-satasiya-898a75238/"><img src="https://img.shields.io/badge/LINKEDIN-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Dhaval0077"><img src="https://img.shields.io/badge/GITHUB-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/KAGGLE-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br>
 
