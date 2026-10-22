@@ -7,14 +7,14 @@
 **Building practical software that connects AI, automation, computer vision and IoT.**
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/Dhaval0077">
+    <img src="https://img.shields.io/github/followers/Dhaval0077?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge" />
+  <a href="https://github.com/Dhaval0077">
+    <img src="https://img.shields.io/github/stars/Dhaval0077?label=Stars&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/Dhaval0077">
+    <img src="https://komarev.com/ghpvc/?username=Dhaval0077&style=for-the-badge&label=PROFILE+VIEWS" />
   </a>
 </p>
 
@@ -247,9 +247,9 @@ Building projects that connect embedded hardware with modern software systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhaval0077&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaval0077&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
@@ -257,7 +257,7 @@ Building projects that connect embedded hardware with modern software systems.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhaval0077&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -267,7 +267,7 @@ Building projects that connect embedded hardware with modern software systems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhaval0077&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -277,7 +277,7 @@ Building projects that connect embedded hardware with modern software systems.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhaval0077&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
