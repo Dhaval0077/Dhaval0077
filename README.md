@@ -33,7 +33,7 @@ I build **practical systems** that connect the digital and physical worlds.
 
 I take real-world problems, break them into engineering problems, and build complete solutions around them.
 
- **Reach me at:** [your.email@example.com](mailto:YOUR_EMAIL@example.com)
+ **Reach me at:** [dhavalpatel.tool@gmail.com](mailto:dhavalpatel.tool@gmail.com)
 
 </td>
 <td width="50%" valign="top">
