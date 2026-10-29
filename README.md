@@ -7,9 +7,15 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Dhaval0077&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Dhaval0077?label=FOLLOWERS&style=flat-square&color=1F6FEB&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-1F6FEB?style=flat-square&labelColor=0D1117" alt="Status"/>
+  <a href="https://komarev.com/ghpvc/?username=Dhaval0077">
+    <img src="https://komarev.com/ghpvc/?username=Dhaval0077&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Dhaval0077?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dhaval0077?label=FOLLOWERS&style=flat-square&color=1F6FEB&labelColor=0D1117" alt="Followers"/>
+  </a>
+  <a href="mailto:dhavalpatel.tool@gmail.com">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-1F6FEB?style=flat-square&labelColor=0D1117" alt="Status"/>
+  </a>
 </p>
 
 </div>
