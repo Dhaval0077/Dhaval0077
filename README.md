@@ -83,16 +83,16 @@ export default Developer;
   LLMs · RAG · OCR · Ollama · Gemini
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,sql" /><br>
-  TypeScript · Python · C/C++ · SQL
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,sql,tailwind" /><br>
+  TypeScript · Python · C/C++ · SQL · Tailwind CSS
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=arduino,cpp" /><br>
   ESP32 · MQTT · Sensors · Embedded
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,docker,githubactions,linux,git" /><br>
-  Node.js · PostgreSQL · Redis · BullMQ · Docker
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,prisma,socketio,docker,githubactions,linux,git" /><br>
+  Node.js · PostgreSQL · MySQL · MongoDB · Redis · WebSocket · BullMQ · Docker
 </td>
 </tr>
 </table>
