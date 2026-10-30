@@ -83,7 +83,8 @@ export default Developer;
   LLMs · RAG · OCR · Ollama · Gemini
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,sql,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,tailwind" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br>
   TypeScript · Python · C/C++ · SQL · Tailwind CSS
 </td>
 <td align="center">
@@ -91,7 +92,9 @@ export default Developer;
   ESP32 · MQTT · Sensors · Embedded
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,prisma,socketio,docker,githubactions,linux,git" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,redis,docker,githubactions,linux,git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" /><br>
   Node.js · PostgreSQL · MySQL · MongoDB · Redis · WebSocket · BullMQ · Docker
 </td>
 </tr>
