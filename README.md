@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=DHAVAL%20SATASIYA&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%7C%20IoT%20%7C%20Automation&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=DHAVAL%20M.%20SATASIYA&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%7C%20IoT%20%7C%20Automation&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Bridging+AI+and+real-world+systems;Computer+Vision+%7C+RAG+%7C+Local+AI;Backend+Engineering+%7C+IoT+%7C+Automation" alt="Typing SVG"/>
