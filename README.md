@@ -51,7 +51,7 @@ class Developer {
   focus = ["AI", "IoT", "Computer Vision", "Backend"];
   languages = ["TypeScript", "Python", "C++", "SQL"];
   hardware = ["ESP32", "Arduino", "MQTT"];
-  building = ["JobPilot", "P-Accountant", "Duplicate Manager"];
+  building = ["JA", "P-Accountant", "Duplicate Manager"];
   learning = ["RAG", "Distributed Systems", "CI/CD"];
   philosophy = "Build software that can be understood, tested, maintained and trusted.";
   openToWork = true;
@@ -108,7 +108,7 @@ export default Developer;
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center"> JobPilot</h3>
+<h3 align="center"> JA</h3>
 
 **AI-powered automated job-hunting platform**
 
@@ -172,7 +172,7 @@ Employee records, attendance, leave management, reporting and role-based access,
 
 | Project | Focus |
 |:---:|:---:|
-|  **JobPilot** | AI-powered job discovery and automation |
+|  **JA** | AI-powered job discovery and automation |
 |  **P-Accountant** | Privacy-first accounting and salary validation |
 |  **Duplicate Manager** | Local file and visual duplicate detection |
 |  **AI / RAG** | Practical local AI and document intelligence |
