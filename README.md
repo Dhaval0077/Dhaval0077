@@ -26,13 +26,12 @@
 <tr>
 <td width="50%" valign="top">
 
-###  About Me --
+###  About Me
 
 I build **practical systems** that connect the digital and physical worlds.
 
 -  Designing AI-powered applications
 -  Developing computer vision pipelines
--  Building IoT and embedded solutions
 -  Creating local AI and RAG systems
 -  Automating workflows to save time
 -  Keeping privacy and security first
