@@ -26,7 +26,7 @@
 <tr>
 <td width="50%" valign="top">
 
-###  About Me
+###  About Me--
 
 I build **practical systems** that connect the digital and physical worlds.
 
