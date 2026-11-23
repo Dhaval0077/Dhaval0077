@@ -36,7 +36,7 @@ I build **practical systems** that connect the digital and physical worlds.
 -  Automating workflows to save time
 -  Keeping privacy and security first
 
-I will take real-world problems, break them into engineering problems, and build complete solutions around them.
+I take real-world problems, break them into engineering problems, and build complete solutions around them.
 
  **Reach me at:** [dhavalpatel.tool@gmail.com](mailto:dhavalpatel.tool@gmail.com)
 
