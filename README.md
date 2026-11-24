@@ -28,7 +28,7 @@
 
 ###  About Me
 
-I build **practical systems** that connect the digital and physical worlds.
+I build **practical systems** that connect the digital and physical worlds right.
 
 -  Designing AI-powered applications
 -  Developing computer vision pipelines
